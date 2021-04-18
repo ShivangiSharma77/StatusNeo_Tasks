@@ -4,4 +4,5 @@ Nowadays Cryptocurrencies have become a household name. Since the past decade, t
 Thousands of cryptocurrencies are present today, among which bitcoin is the most popular and in demand. It was the first blockchain-based cryptocurrency.
 
 This project aims at exploring bitcoin trends using a historic dataset and creating a model for bitcoin’s closing price prediction.
-https://colab.research.google.com/drive/18dHF7pWkka96tMoMM9ceBgbXqwka6ZxX?usp=sharing
+This is the [google collab](https://colab.research.google.com/drive/18dHF7pWkka96tMoMM9ceBgbXqwka6ZxX?usp=sharing) link for the same.
+
