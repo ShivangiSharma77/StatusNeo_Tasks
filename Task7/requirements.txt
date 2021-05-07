@@ -1,0 +1,6 @@
+tensorflow-cpu
+pandas
+numpy==1.19.5
+sklearn
+flask
+gunicorn
